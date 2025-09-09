@@ -2,7 +2,7 @@
 
 Use the starter kit to get your docs deployed and ready to customize.
 
-[设备管理器](devmgmt.msc)
+[yuanchengzhuo](ms-settings:remotedesktop?activationSource=SMC-IA-4028379)
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
